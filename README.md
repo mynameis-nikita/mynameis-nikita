@@ -1,4 +1,2 @@
-### Привет 👋
-
-Никита Кожевятов 
-Data Analyst / Product Analyst
+### Никита Кожевятов </b>
+#### Data Analyst / Product Analyst

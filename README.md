@@ -1,4 +1,4 @@
-### *Никита Кожевятов*
+### **Никита Кожевятов**
 #### Data Analyst / Product Analyst
 
 <div id="header" align="center">

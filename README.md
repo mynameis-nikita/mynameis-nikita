@@ -3,10 +3,12 @@
 
 
 **PROJECTS** </br>
-1)</br>
-2)</br>
-3)</br>
-4)</br>
+1) <a href="https://github.com/mynameis-nikita/AB_test">АБ-тесты</a></br>
+2) <a href="https://github.com/mynameis-nikita/Airflow/tree/main/Daily_Telegram_report">Автоматизированный отчет по работе Месенджера (AirFlow, telegram)</a></br>
+3) <a href="https://github.com/mynameis-nikita/Airflow/blob/main/Telegram_alert_system">Система алертов</a></br>
+4) <a href="https://github.com/mynameis-nikita/Production_analytics">Аналитика данных (Завод по производству Б/А напитков)</a></br>
+5) <a href="https://github.com/mynameis-nikita/pet/blob/main/kaggle_Alice.ipynb">ML-проект. Идентификация факта взлома по изменившемуся поведению в сети Интернет</a></br>
+
 
 
 **STACK** </br>
